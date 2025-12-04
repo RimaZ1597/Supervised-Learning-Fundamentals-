@@ -24,6 +24,5 @@ This repository contains a set of Jupyter notebooks created while learning and p
 - Practice implementing supervised learning methods from scratch  
 - Build intuition on how core ML algorithms work  
 - Strengthen Python, NumPy, and TensorFlow skills  
-- Serve as study material for ML coursework and interviews  
 
 ---
